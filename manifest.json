@@ -1,7 +1,0 @@
-{
-    "name": "Starfish",
-    "short_name":"starfishBay",
-    "start_url":"/index.html",
-    "display": "fullscreen",
-    "orientation":"landscape"
-}
